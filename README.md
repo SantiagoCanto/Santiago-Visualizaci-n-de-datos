@@ -1,4 +1,4 @@
-# Santiago-Visualizaci-n-de-datos
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SantiagoCanto/Santiago-Visualizaci-n-de-datos/main?filepath=00_00_binder.ipynb)
 
